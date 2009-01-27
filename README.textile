@@ -20,6 +20,7 @@ h3. Bundle Features:
 
 h3. TODO:
 
+* Add a Goto Step command
 * Automatically create template step file with pending steps based on the steps used in the feature.
 ** Use Cucumber's built in functionality to do this and clean out the story bundle's way.
 * Tidy up HTML output and add a Textmate formatter with a clickable backtrace.
@@ -98,7 +99,9 @@ h2. Credits
 * **Andre Foeken** - "Original color syntax highlighting":http://movesonrails.com/articles/2007/11/06/rspec-plain-text-stories
 * **Tim Harper** - Update Bundle Command, file detection bug fixes
 * **Aslak Hellesøy** - Rake task improvement, snippet updates, Cucumber! 
-* **Dr. Nic** - Snippet and grammar updates
+* **Dr. Nic** - Snippet and grammar updates, updated 'Run Focused Scenario' command
+* **Pedro Visintin** - Syntax fix
+* **Joseph Wilk** - Syntax extentions for 'Scenario Outline'
 
 
 
